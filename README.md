@@ -35,7 +35,7 @@
 
 
  SchoolCore:
-> Sistema de gestão escolar desenvolvido em equipe como projeto acadêmico.
+> Sistema de gestão escolar desenvolvido como projeto acadêmico.
 
 - Desenvolvido em **Python + MongoDB** com arquitetura orientada a objetos
 - Gerenciamento de alunos, professores, turmas e matrículas via terminal
