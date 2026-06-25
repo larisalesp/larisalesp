@@ -46,7 +46,7 @@
 ###  ✩ Em construção:
 
 - ↳ **Finance App** — controle financeiro pessoal com Python, FastAPI, MongoDB e React
-- ↳ **Task Organizer** — organizador de tarefas com ordenação automática por praz
+- ↳ **Task Organizer** — organizador de tarefas com ordenação automática por prazo.
 
 
 
