@@ -16,7 +16,7 @@
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=larisalesp&show_icons=true&hide_border=true&bg_color=00000000&title_color=C4728A&text_color=7A8C4A&icon_color=E8AABA&hide=prs,issues,stars&custom_title=Larissa%20Sales'%20GitHub%20Stats)&nbsp;&nbsp;
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=larisalesp&show_icons=true&hide_border=true&bg_color=00000000&title_color=C4728A&text_color=7A8C4A&icon_color=E8AABA&hide=prs,issues,stars,contribs&custom_title=Larissa%20Sales'%20GitHub%20Stats)&nbsp;&nbsp;
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=larisalesp&hide_border=true&background=00000000&ring=C4728A&fire=C4728A&currStreakLabel=C4728A&sideLabels=7A8C4A&currStreakNum=7A8C4A&sideNums=7A8C4A&dates=7A8C4A)](https://git.io/streak-stats)
 
