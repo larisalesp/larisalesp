@@ -42,4 +42,4 @@
 
 ### ✩ Em construção:
 
-- ↳ **StarLoop** — gerenciamento de projetos artesanais com Java, Spring Boot, MongoDB e Flutter
+- ↳ **StarLoop** — gerenciamento de projetos artesanais com Java.
