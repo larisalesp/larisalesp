@@ -1,7 +1,7 @@
 # Larissa Sales ୨ৎ
 
 <div align="center">
-❥ graduanda de ciências da computação na UniAteneu (2025-2029).
+❥ graduanda de ciências da computação  (2025-2029).
 </div>
 
 ͏ ͏ ͏<div align="center">
